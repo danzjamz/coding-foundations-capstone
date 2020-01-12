@@ -1,0 +1,31 @@
+Include these elements:
+
+Navbar that includes “Pens, Projects, Posts, Collections, and Spark with a down chevron(does not need to actually drop down)
+
+Images - use available tools to recreate colors, etc.
+
+CodePen logo 
+
+
+
+Scoring criteria:
+
+-Coding runs without errors
+
+-Coding produces a replica that:
+
+-Includes all required elements
+
+-Accurate representation of the CodePen.io homepage
+
+
+
+Personal Aims:
+
+-Work with both CSS Grid and FlexBox together
+
+-Practice CSS selectors in different ways to get used to them all (using classes, using combined selectors, etc)
+
+-Use em and/or rem as much as possible (to get used to it and how it works)
+
+-Reconstruct entire page as closely as possible
